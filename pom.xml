@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>device.js</artifactId>
-    <version>139f208</version>
+    <version>139f209-SNAPSHOT</version>
     <name>Device.js</name>
     <description>WebJar for Device.js</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/device.js</url>
         <connection>scm:git:https://github.com/webjars/device.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/device.js.git</developerConnection>
-        <tag>device.js-139f208</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
